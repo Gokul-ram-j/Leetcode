@@ -1,16 +1,19 @@
 class Solution:
-    def majorityElement(self, nums: List[int]) -> int:
+    def majorityElement(self, nums):
         
-        freq={}
-        majFreq=len(nums)//2+1
+        # Boyer–Moore Voting Algorithm
 
-        for i in nums:
-            freq[i]=freq.get(i,0)+1
-        
-        for i in nums:
-            if freq.get(i) >= majFreq :
-                return i
-            
+        candidate=None
+        count=0
 
-            
+        for num in nums:
+
+            if count==0:
+                candidate = num
+
+            if num==candidate: 
+                count+=1
+            else : 
+                count -=1
         
+        return candidate
