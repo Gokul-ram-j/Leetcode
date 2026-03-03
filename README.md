@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gokul-ram-j/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gokul-ram-j/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/Gokul-ram-j/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Gokul-ram-j/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gokul-ram-j/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Gokul-ram-j/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -92,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Gokul-ram-j/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Gokul-ram-j/Leetcode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Gokul-ram-j/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Gokul-ram-j/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
