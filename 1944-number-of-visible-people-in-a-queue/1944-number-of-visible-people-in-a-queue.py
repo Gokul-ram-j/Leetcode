@@ -1,0 +1,22 @@
+class Solution:
+    def canSeePersonsCount(self, heights: List[int]) -> List[int]:
+        n = len(heights)
+        res = [0] * n
+        stack = []
+
+        for i in range(n - 1, -1, -1):
+            count = 0
+
+            # Pop all shorter people
+            while stack and heights[i] > stack[-1]:
+                stack.pop()
+                count += 1
+
+            # If someone taller remains, can see them too
+            if stack:
+                count += 1
+
+            res[i] = count
+            stack.append(heights[i])
+
+        return res
