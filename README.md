@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gokul-ram-j/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0198-house-robber](https://github.com/Gokul-ram-j/Leetcode/tree/master/0198-house-robber) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Gokul-ram-j/Leetcode/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gokul-ram-j/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Gokul-ram-j/Leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Gokul-ram-j/Leetcode/tree/master/0198-house-robber) |
 | [0560-subarray-sum-equals-k](https://github.com/Gokul-ram-j/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Gokul-ram-j/Leetcode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/Gokul-ram-j/Leetcode/tree/master/0766-toeplitz-matrix) |
