@@ -3,34 +3,27 @@ class Solution:
         
         preCrs={i:[] for i in range(numCourses)}
 
-        for crs,preq in prerequisites:
+        for crs,preq in  prerequisites:
             preCrs[crs].append(preq)
         
         visited=set()
-        def solve(preq):
-            if preq in visited:
+        
+        def backtrack(crs):
+            if crs in visited:
                 return False
             
-            if preCrs[preq]==[]:
+            if preCrs[crs]==[]:
                 return True
             
-            visited.add(preq)
-
-            for crs in preCrs:
-                if solve(crs)==False:return False
-            
-            visited.remove(preq)
-
+            visited.add(crs)
+            for preq in preCrs[crs]:
+                if backtrack(preq)==False: return False
+            visited.remove(crs)
+            preCrs[crs]=[]
             return True
 
-        
         for crs,preq in prerequisites:
-            if solve(preq)==False: return False
+            if backtrack(crs) ==False:
+                return False
         
         return True
-
-
-
-
-
-
