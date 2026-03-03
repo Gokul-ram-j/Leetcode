@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Gokul-ram-j/Leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Gokul-ram-j/Leetcode/tree/master/0994-rotting-oranges) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gokul-ram-j/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Gokul-ram-j/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Gokul-ram-j/Leetcode/tree/master/0207-course-schedule) |
+## Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Gokul-ram-j/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Gokul-ram-j/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
