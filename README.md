@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gokul-ram-j/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Gokul-ram-j/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Gokul-ram-j/Leetcode/tree/master/0022-generate-parentheses) |
+| [0242-valid-anagram](https://github.com/Gokul-ram-j/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gokul-ram-j/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Gokul-ram-j/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Gokul-ram-j/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Gokul-ram-j/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Gokul-ram-j/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gokul-ram-j/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Gokul-ram-j/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gokul-ram-j/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Gokul-ram-j/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Gokul-ram-j/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Gokul-ram-j/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gokul-ram-j/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Gokul-ram-j/Leetcode/tree/master/0242-valid-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gokul-ram-j/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Simulation
 |  |
