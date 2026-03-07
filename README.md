@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Gokul-ram-j/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Gokul-ram-j/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Gokul-ram-j/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Gokul-ram-j/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Gokul-ram-j/Leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokul-ram-j/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Gokul-ram-j/Leetcode/tree/master/0198-house-robber) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Gokul-ram-j/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gokul-ram-j/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Gokul-ram-j/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
 |  |
 | ------- |
