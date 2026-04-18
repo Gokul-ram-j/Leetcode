@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Gokul-ram-j/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Gokul-ram-j/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
