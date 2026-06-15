@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gokul-ram-j/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gokul-ram-j/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gokul-ram-j/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Gokul-ram-j/Leetcode/tree/master/0146-lru-cache) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gokul-ram-j/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
