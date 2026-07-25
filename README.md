@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Gokul-ram-j/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [3536-maximum-product-of-two-digits](https://github.com/Gokul-ram-j/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Gokul-ram-j/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/Gokul-ram-j/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gokul-ram-j/Leetcode/tree/master/0242-valid-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gokul-ram-j/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Gokul-ram-j/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Gokul-ram-j/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
