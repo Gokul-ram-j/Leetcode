@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gokul-ram-j/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Gokul-ram-j/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gokul-ram-j/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Gokul-ram-j/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Gokul-ram-j/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Gokul-ram-j/Leetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Gokul-ram-j/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gokul-ram-j/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Gokul-ram-j/Leetcode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/Gokul-ram-j/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Gokul-ram-j/Leetcode/tree/master/0867-transpose-matrix) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gokul-ram-j/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gokul-ram-j/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gokul-ram-j/Leetcode/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gokul-ram-j/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gokul-ram-j/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Gokul-ram-j/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gokul-ram-j/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
