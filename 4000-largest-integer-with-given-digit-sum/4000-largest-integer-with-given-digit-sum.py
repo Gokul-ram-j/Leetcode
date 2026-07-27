@@ -5,10 +5,9 @@ class Solution:
             
             return s==sum([int(i) for i in str(num)])
 
-        max=-1
-        for i in range(0,10**n):
-             if digitSum(i):
-                max=i
         
-        if max!=-1: return max
+        for i in range((10**n)-1,-1,-1):
+             if digitSum(i):
+                return i
+        
         return -1
