@@ -1,13 +1,14 @@
 class Solution:
     def largestInteger(self, n: int, s: int) -> int:
         if s==0: return 0
-        def digitSum(num):
-            
-            return s==sum([int(i) for i in str(num)])
 
+        if s > 9 * n: return -1 
+
+        res=""
+        for i in range(n):
+            digit=min(9,s)
+            res+=str(digit)
+            s-=digit
         
-        for i in range((10**n)-1,-1,-1):
-             if digitSum(i):
-                return i
-        
-        return -1
+        return int(res) 
+
