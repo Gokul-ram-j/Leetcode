@@ -1,15 +1,15 @@
+from collections import defaultdict
+
 class Solution:
-    def subarraySum(self, nums: List[int], k: int) -> int:
-        prefixSum={0:1}
-        res=0
-        curSum=0
+    def subarraySum(self, nums, k):
+        prefix = 0
+        count = 0
+        mp = defaultdict(int)
+        mp[0] = 1
 
-        for i in range(len(nums)):
-            curSum+=nums[i]
-            diff=curSum-k
+        for num in nums:
+            prefix += num
+            count += mp[prefix - k]
+            mp[prefix] += 1
 
-            res+=prefixSum.get(diff,0)
-            prefixSum[curSum]=1+prefixSum.get(curSum,0)
-        
-        return res
-
+        return count
