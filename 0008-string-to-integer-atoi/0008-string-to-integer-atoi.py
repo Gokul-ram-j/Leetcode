@@ -23,9 +23,9 @@ class Solution:
                 if res or sign : break
                 sign=s[i]
         
-        num = -cti(res) if sign == '-' else cti(res)
-
-        
+        num = cti(res)
+        if sign == '-':
+            num = -num
 
         if num < INT_MIN:
             return INT_MIN
