@@ -1,6 +1,10 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
 
+
+        INT_MIN = -2**31
+        INT_MAX = 2**31 - 1
+
         def cti(s):
             num = 0
             for ch in s:
@@ -21,8 +25,7 @@ class Solution:
         
         num = -cti(res) if sign == '-' else cti(res)
 
-        INT_MIN = -2**31
-        INT_MAX = 2**31 - 1
+        
 
         if num < INT_MIN:
             return INT_MIN
