@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Gokul-ram-j/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Gokul-ram-j/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gokul-ram-j/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Gokul-ram-j/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3838-weighted-word-mapping](https://github.com/Gokul-ram-j/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Gokul-ram-j/Leetcode/tree/master/0867-transpose-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Gokul-ram-j/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Gokul-ram-j/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Gokul-ram-j/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Gokul-ram-j/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Gokul-ram-j/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
